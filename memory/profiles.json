@@ -1,0 +1,25 @@
+{
+  "research_interests": [
+    "machine learning",
+    "computer vision",
+    "natural language processing",
+    "deep learning",
+    "transformers"
+  ],
+  "preferred_venues": [
+    "NeurIPS",
+    "ICML",
+    "ICLR",
+    "CVPR",
+    "ICCV",
+    "ECCV",
+    "ACL",
+    "EMNLP"
+  ],
+  "quality_signals": {
+    "min_citation_count": 10,
+    "prefer_recent": true,
+    "code_availability_bonus": true,
+    "reproducibility_weight": 0.8
+  }
+}

@@ -1,0 +1,13 @@
+arxiv
+requests
+pydantic
+python-dotenv
+pdfminer.six
+pymupdf
+beautifulsoup4
+sentence-transformers
+chromadb
+rank-bm25
+tqdm
+rich
+google-generativeai
